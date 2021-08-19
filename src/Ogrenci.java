@@ -19,6 +19,12 @@ public class Ogrenci {
             System.out.println("i = " + i);
         }
 
+        // 3 er geri geri sayacak
+        for(int i=10;i>0;i-=3)
+        {
+            System.out.println("i = " + i);
+        }
+
     }
 
 }
