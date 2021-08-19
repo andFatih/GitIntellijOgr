@@ -29,4 +29,9 @@ public class Ogrenci {
 
     }
 
+    public static void OgrenciOrt()
+    {
+        System.out.println(" 1 ");
+    }
+
 }
