@@ -25,6 +25,8 @@ public class Ogrenci {
             System.out.println("i = " + i);
         }
 
+        System.out.println(" yeni değişiklik ");
+
     }
 
 }
