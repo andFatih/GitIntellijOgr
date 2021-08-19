@@ -3,6 +3,7 @@ public class Notlar {
 
         System.out.println("Not ortalaması");
         System.out.println(" hesaplandı ");
+        System.out.println(" hesaplandı 2");
     }
 
 
